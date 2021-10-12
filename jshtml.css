@@ -1,0 +1,59 @@
+
+
+.maincontainer{
+    width:100vw;
+    height:100vh;
+    border:1px solid black
+}
+
+.imageContainer{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 25px;
+    flex-wrap: wrap;
+}
+
+
+.image1{
+    width: 19vw;
+    height: 18vh;
+    object-fit: cover;
+
+}
+
+.country{
+    display: flex;
+    margin-top: 43px;
+    flex-wrap: wrap;
+}
+
+.unorderedList0{
+    position: relative;
+    right:10px;
+}
+
+.unorderedList1{
+    margin-left:50px;
+}
+
+.unorderedList2{
+    margin-left: 90px;
+}
+
+.unorderedList3{
+    margin-left:110px;
+}
+
+.unorderedList4{
+    margin-left:70px
+
+
+
+
+
+
+
+
+
